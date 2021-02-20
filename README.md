@@ -1,9 +1,7 @@
-# Ryota-ka Twterm
+# homebrew-twterm
 
-## How do I install these formulae?
-`brew install ryota-ka/twterm/<formula>`
+A Homebrew tap for [`twterm`](https://twterm.ryota-ka.me/).
 
-Or `brew tap ryota-ka/twterm` and then `brew install <formula>`.
-
-## Documentation
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+```sh
+$ brew install ryota-ka/twterm/twterm
+```
