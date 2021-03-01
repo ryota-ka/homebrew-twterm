@@ -1,8 +1,8 @@
 class Twterm < Formula
   desc "Full-featured TUI Twitter client"
   homepage "https://twterm.ryota-ka.me/"
-  url "https://rubygems.org/downloads/twterm-v2.10.0.gem"
-  sha256 "945ae8e506eea427108d4c6d2cc11c35ff9d456a53c318d4f7b78e5f2eea33e5"
+  url "https://rubygems.org/downloads/twterm-v2.10.1.gem"
+  sha256 "d7690e88cff44780903396298f92fdb395f15e43341629c193b23bd81f978ab9"
   license "MIT"
 
   depends_on "libidn"
